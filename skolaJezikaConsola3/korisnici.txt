@@ -1,0 +1,4 @@
+Marko|Markovic|65561|m|m|admin|True
+Petar|Petrovic |456|j|k|zaposlen|False
+Ivana|Peric|65561|d|d|zaposlen|True
+Milos|Romanic|1144654|milos|123|admin|True
